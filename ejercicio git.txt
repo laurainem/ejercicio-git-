@@ -1,0 +1,7 @@
+git status 
+clear 
+git add
+git commic
+git status 
+git init 
+github
